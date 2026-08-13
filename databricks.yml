@@ -1,0 +1,13 @@
+bundle:
+  name: databricks-cicd-lab
+
+include:
+  - resources/*.yml
+
+targets:
+  dev:
+    mode: development
+    default: true
+
+    workspace:
+      profile: lab
