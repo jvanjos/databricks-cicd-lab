@@ -1,3 +1,6 @@
 print("Olá Databricks")
 
-print("Adicionando Pipeline")
+print("Iniciando Pipeline")
+
+print("Processando Silver...")
+
